@@ -1,0 +1,11 @@
+C:\Users\Mehmet\Desktop\kod\c#\MultiNot\MultiNot\bin\Debug\MultiNot.exe.config
+C:\Users\Mehmet\Desktop\kod\c#\MultiNot\MultiNot\bin\Debug\MultiNot.exe
+C:\Users\Mehmet\Desktop\kod\c#\MultiNot\MultiNot\bin\Debug\MultiNot.pdb
+C:\Users\Mehmet\Desktop\kod\c#\MultiNot\MultiNot\obj\Debug\MultiNot.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\kod\c#\MultiNot\MultiNot\obj\Debug\MultiNot.Form1.resources
+C:\Users\Mehmet\Desktop\kod\c#\MultiNot\MultiNot\obj\Debug\MultiNot.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\kod\c#\MultiNot\MultiNot\obj\Debug\MultiNot.csproj.GenerateResource.cache
+C:\Users\Mehmet\Desktop\kod\c#\MultiNot\MultiNot\obj\Debug\MultiNot.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\kod\c#\MultiNot\MultiNot\obj\Debug\MultiNot.exe
+C:\Users\Mehmet\Desktop\kod\c#\MultiNot\MultiNot\obj\Debug\MultiNot.pdb
+C:\Users\Mehmet\Desktop\kod\c#\MultiNot\MultiNot\obj\Debug\MultiNot.Form2.resources
